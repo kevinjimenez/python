@@ -1,5 +1,5 @@
 objetivo = int(input('Escoge un entero: '))
-epsilon = 0.0001 # cuanto preciso queremos q sea
+epsilon = 0.00001 # cuanto preciso queremos q sea
 bajo = 0.0
 alto = max(1.0, objetivo)
 respuesta = (alto + bajo)/2
