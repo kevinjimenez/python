@@ -34,3 +34,9 @@
 ```python
   2 ** 2
 ```
+
+- raices, se debe importar la lib **math**
+ ```python
+   import math
+   raiz = math.sqrt
+```
