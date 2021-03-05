@@ -38,5 +38,5 @@
 - raices, se debe importar la lib **math**
  ```python
    import math
-   raiz = math.sqrt
+   raiz = math.sqrt(4,2)
 ```
