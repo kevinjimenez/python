@@ -28,3 +28,9 @@
 ```python
   20 % 3
 ```
+
+
+- potencia
+```python
+  2 ** 2
+```
